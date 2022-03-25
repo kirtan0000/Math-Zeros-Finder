@@ -1,0 +1,11 @@
+{
+  "name": "zeros-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Kirtan Magan",
+  "license": "ISC",
+  "dependencies": {
+    "mathjs": "^10.4.1"
+  }
+}
