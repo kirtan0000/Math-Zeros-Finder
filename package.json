@@ -1,7 +1,7 @@
 {
   "name": "zeros-finder",
   "version": "1.0.0",
-  "description": "",
+  "description": "This will let you find the zeroes of a function!",
   "main": "index.js",
   "author": "Kirtan Magan",
   "license": "ISC",
